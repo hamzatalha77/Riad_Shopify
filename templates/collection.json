@@ -29,8 +29,5 @@
       }
     }
   },
-  "order": [
-    "main-collection-banner",
-    "main-collection-product-grid"
-  ]
+  "order": ["main-collection-banner", "main-collection-product-grid"]
 }
